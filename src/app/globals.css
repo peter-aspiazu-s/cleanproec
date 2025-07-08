@@ -1,26 +1,57 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* --background: #ffffff;
+  --foreground: #171717; */
+
+
+  /* **VARIABLES CSS PERSONALIZADAS** */
+  --accent-color: #FFA07A;
+  --accent2-color: #6A5ACD;
+  --accent3-color: #32CD32;
+  --accent4-color: #FFD700;
+  --primary-color: #1E90FF;
+  --dark-text-color: #333333;
+  --gray-text-color: #888888;
+  --button-padding-x: 16px;
+  --button-padding-y: 10px;
+  --light-text-color: #FFFFFF;
+  --dark-border-color: #181818;
+  --light-border-color: #E6F7FF;
+  --button-rounded-radius: 8px;
+  --dark-background-color: #181818;
+  --light-background-color: #E6F7FF;
+  --medium-background-color: #CCEFFF;
+  --primary-button-text-color: #FFFFFF;
+  --secondary-button-bg-color: #E0E0E0;
+  --secondary-button-text-color: #000000;
+  --primary-button-hover-bg-color: #1C86EE;
+  --primary-button-hover-text-color: #FFFFFF;
+  --secondary-button-hover-bg-color: #D3D3D3; /* Corregí el nombre de tu variable aquí */
+  --secondary-button-hover-text-color: #000000;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* {
+    scroll-behavior: smooth;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-lato), sans-serif;
+  -webkit-font-smoothing: antialiased; /* Para navegadores basados en WebKit (Chrome, Safari) */
+  -moz-osx-font-smoothing: grayscale; /* Para navegadores basados en Firefox en macOS */
+  text-rendering: optimizeLegibility; 
+}
+
+.hovered-element {
+  outline: #3871E0 dashed 2px;
+}
+
+.clicked-element {
+    outline: #3871E0 solid 2px;
+}
+
+.clicked-code-section {
+    border: #3B82F6 solid 2px;
 }
