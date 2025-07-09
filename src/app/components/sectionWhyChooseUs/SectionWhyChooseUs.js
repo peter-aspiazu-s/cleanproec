@@ -23,7 +23,7 @@ export const SectionWhyChooseUs = () => {
                     <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-[var(--dark-text-color)] mb-6">
                         ¿Por Qué Elegir
                         <span
-                            class="bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent2-color)] bg-clip-text text-transparent">Limpio</span>?
+                            class="bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent2-color)] bg-clip-text text-transparent"> Limpio</span>?
                     </h2>
                     <p class="text-xl text-[var(--gray-text-color)] max-w-3xl mx-auto">
                         Somos más que una empresa de limpieza. Somos especialistas dedicados
@@ -272,7 +272,7 @@ export const SectionWhyChooseUs = () => {
                         ¿Listo para experimentar la diferencia de un servicio verdaderamente
                         especializado?
                     </p>
-                    <a href="https://wa.me/593960067820?text=Quiero programar mi servicio de limpieza especializada"
+                    <a href="https://wa.me/593960067820?text=Quiero programar mi servicio de limpieza especializada" target="_blank"
                         class="inline-flex items-center px-10 py-5 bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent2-color)] text-white rounded-xl font-bold text-xl hover:scale-105 transition-all duration-300 shadow-xl hover:shadow-2xl">
                         <i class="fab fa-whatsapp text-2xl mr-4" aria-hidden="true"></i>
                         ¡Agenda tu Servicio Ahora!

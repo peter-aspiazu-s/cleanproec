@@ -25,7 +25,7 @@ export const Contact = () => {
                 <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-[var(--dark-text-color)] mb-6">
                     ¡Hablemos de tu
                     <span
-                        class="bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent2-color)] bg-clip-text text-transparent">Proyecto
+                        class="bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent2-color)] bg-clip-text text-transparent"> Proyecto
                         de Limpieza</span>!
                 </h2>
                 <p class="text-xl text-[var(--gray-text-color)] max-w-3xl mx-auto">
@@ -51,7 +51,7 @@ export const Contact = () => {
                             WhatsApp
                         </h3>
                         <p class="text-[var(--gray-text-color)] mb-4">Respuesta inmediata</p>
-                        <a href="https://wa.me/593960067820?text=¡Hola! Me interesa solicitar información sobre los servicios de limpieza especializada"
+                        <a href="https://wa.me/593960067820?text=¡Hola! Me interesa solicitar información sobre los servicios de limpieza especializada" target="_blank"
                             class="inline-flex items-center px-6 py-3 bg-green-500 text-white rounded-lg font-semibold hover:bg-green-600 transition-all duration-300 hover:scale-105">
                             <i class="fab fa-whatsapp mr-2" aria-hidden="true"></i>
                             096 006 7820
@@ -156,7 +156,7 @@ export const Contact = () => {
                             </div>
                         </div>
 
-                        <a href="https://wa.me/593960067820?text=Necesito una cotización urgente para servicios de limpieza especializada"
+                        <a href="https://wa.me/593960067820?text=Necesito una cotización urgente para servicios de limpieza especializada" target="_blank"
                             class="inline-flex items-center px-8 py-4 bg-white text-[var(--primary-color)] rounded-lg font-bold text-lg hover:bg-gray-100 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl mt-6">
                             <i class="fab fa-whatsapp text-xl mr-3" aria-hidden="true"></i>
                             Contactar por WhatsApp
@@ -174,21 +174,21 @@ export const Contact = () => {
                         </p>
 
                         <div class="flex flex-wrap gap-4">
-                            <a href="#"
+                            <a href="https://www.facebook.com/share/16fEtmTJp7/" target="_blank"
                                 class="group flex items-center space-x-3 px-6 py-3 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-all duration-300 hover:scale-105">
                                 <i class="fab fa-facebook-f text-lg group-hover:animate-pulse"
                                     aria-hidden="true"></i>
                                 <span class="font-semibold">Facebook</span>
                             </a>
 
-                            <a href="#"
+                            <a href="https://www.instagram.com/cleanpro_ec?igsh=MTF3MGlvZWx5a3R5" target="_blank"
                                 class="group flex items-center space-x-3 px-6 py-3 bg-pink-500 text-white rounded-lg hover:bg-pink-600 transition-all duration-300 hover:scale-105">
                                 <i class="fab fa-instagram text-lg group-hover:animate-pulse"
                                     aria-hidden="true"></i>
                                 <span class="font-semibold">Instagram</span>
                             </a>
 
-                            <a href="#"
+                            <a href="https://www.tiktok.com/@cleanproec6?_t=ZM-8xt9xvw8L4v&_r=1" target="_blank"
                                 class="group flex items-center space-x-3 px-6 py-3 bg-black text-white rounded-lg hover:bg-gray-800 transition-all duration-300 hover:scale-105">
                                 <i class="fab fa-tiktok text-lg group-hover:animate-pulse" aria-hidden="true"></i>
                                 <span class="font-semibold">TikTok</span>
@@ -236,7 +236,7 @@ export const Contact = () => {
                     Agenda tu servicio hoy mismo.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4 items-center justify-center">
-                    <a href="https://wa.me/593960067820?text=Quiero agendar mi servicio de limpieza especializada hoy mismo"
+                    <a href="https://wa.me/593960067820?text=Quiero agendar mi servicio de limpieza especializada hoy mismo" target="_blank"
                         class="inline-flex items-center px-8 py-4 bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent2-color)] text-white rounded-lg font-bold text-lg hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl">
                         <i class="fab fa-whatsapp text-xl mr-3" aria-hidden="true"></i>
                         Agendar Servicio Ahora

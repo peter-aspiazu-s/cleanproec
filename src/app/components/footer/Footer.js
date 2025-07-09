@@ -71,7 +71,7 @@ export const Footer = () => {
                                 <i class="fab fa-whatsapp text-white" aria-hidden="true"></i>
                             </div>
                             <div>
-                                <a href="https://wa.me/593960067820"
+                                <a href="https://wa.me/593960067820" target="_blank"
                                     class="text-white hover:text-green-400 transition-colors duration-300 font-medium">
                                     WhatsApp: 096 006 7820
                                 </a>
@@ -95,12 +95,12 @@ export const Footer = () => {
                     <h3 class="text-xl font-bold text-white mb-6">Navegación Rápida</h3>
                     <ul class="space-y-3">
                         <li>
-                            <a href="#"
+                            <Link href="/"
                                 class="text-gray-300 hover:text-[var(--primary-color)] transition-colors duration-300 flex items-center group">
                                 <i class="fas fa-chevron-right text-xs mr-2 group-hover:translate-x-1 transition-transform duration-300"
                                     aria-hidden="true"></i>
                                 Inicio
-                            </a>
+                            </Link>
                         </li>
                         <li>
                             <a href="#nuestros-servicios"
@@ -167,7 +167,7 @@ export const Footer = () => {
                         </li>
                         <li>
                             <a href="https://wa.me/593960067820?text=Me interesa el servicio de limpieza de interiores de vehículos"
-                                class="text-gray-300 hover:text-[var(--primary-color)] transition-colors duration-300 flex items-center group">
+                                class="text-gray-300 hover:text-[var(--primary-color)] transition-colors duration-300 flex  items-center group">
                                 <i class="fas fa-car text-xs mr-2 text-[var(--accent2-color)]"
                                     aria-hidden="true"></i>
                                 Interiores de Vehículos
@@ -177,12 +177,12 @@ export const Footer = () => {
 
                     {/* <!-- CTA Button --> */}
                     <div class="mt-6">
-                        <a href="https://wa.me/593960067820?text=Quiero solicitar una cotización gratuita"
+                        <a href="https://wa.me/593960067820?text=Quiero solicitar una cotización gratuita" target="_blank"
                             class="inline-flex items-center px-6 py-3 bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent2-color)] text-white rounded-lg font-semibold hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl">
                             <i class="fab fa-whatsapp mr-2" aria-hidden="true"></i>
                             Cotizar Ahora
                         </a>
-                    </div>
+                    </div>  
                 </div>
             </div>
 
@@ -193,22 +193,22 @@ export const Footer = () => {
                     <div class="flex items-center space-x-4">
                         <span class="text-gray-300 text-sm font-medium">Síguenos:</span>
                         <div class="flex space-x-3">
-                            <a href="#"
+                            <a href="https://www.facebook.com/share/16fEtmTJp7/" target="_blank"
                                 class="w-10 h-10 bg-blue-600 rounded-full flex items-center justify-center hover:bg-blue-700 transition-colors duration-300 group">
                                 <i class="fab fa-facebook-f text-white group-hover:scale-110 transition-transform duration-300"
                                     aria-hidden="true"></i>
                             </a>
-                            <a href="#"
+                            <a href="https://www.instagram.com/cleanpro_ec?igsh=MTF3MGlvZWx5a3R5" target="_blank"
                                 class="w-10 h-10 bg-pink-600 rounded-full flex items-center justify-center hover:bg-pink-700 transition-colors duration-300 group">
                                 <i class="fab fa-instagram text-white group-hover:scale-110 transition-transform duration-300"
                                     aria-hidden="true"></i>
                             </a>
-                            <a href="#"
+                            <a href="https://www.tiktok.com/@cleanproec6?_t=ZM-8xt9xvw8L4v&_r=1" target="_blank"
                                 class="w-10 h-10 bg-black rounded-full flex items-center justify-center hover:bg-gray-800 transition-colors duration-300 group">
                                 <i class="fab fa-tiktok text-white group-hover:scale-110 transition-transform duration-300"
                                     aria-hidden="true"></i>
                             </a>
-                            <a href="https://wa.me/593960067820"
+                            <a href="https://wa.me/593960067820" target="_blank"
                                 class="w-10 h-10 bg-green-600 rounded-full flex items-center justify-center hover:bg-green-700 transition-colors duration-300 group">
                                 <i class="fab fa-whatsapp text-white group-hover:scale-110 transition-transform duration-300"
                                     aria-hidden="true"></i>
@@ -233,7 +233,7 @@ export const Footer = () => {
             <div class="border-t border-gray-700 pt-6 pb-4">
                 <div class="flex flex-col md:flex-row items-center justify-between space-y-4 md:space-y-0">
                     <div class="text-sm text-gray-400">
-                        © 2025 Limpio - Servicios de Limpieza Especializada. Todos los
+                        © 2025 CleanPro EC - Servicios de Limpieza Especializada. Todos los
                         derechos reservados.
                     </div>
 
@@ -249,8 +249,8 @@ export const Footer = () => {
         </div>
 
         {/* <!-- Floating WhatsApp Button (Alternative) --> */}
-        <div class="fixed bottom-6 right-6 z-50 md:hidden">
-            <a href="https://wa.me/593960067820?text=¡Hola! Necesito información sobre sus servicios de limpieza"
+        <div class="fixed bottom-6 right-6 z-50">
+            <a href="https://wa.me/593960067820?text=¡Hola! Necesito información sobre sus servicios de limpieza" target="_blank"
                 class="w-14 h-14 bg-green-500 rounded-full flex items-center justify-center text-white shadow-2xl hover:bg-green-600 transition-all duration-300 hover:scale-110 animate-pulse">
                 <i class="fab fa-whatsapp text-xl" aria-hidden="true"></i>
             </a>

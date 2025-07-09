@@ -77,7 +77,7 @@ export const SectionPrimary = () => {
 
                         {/* <!-- CTA Buttons --> */}
                         <div className="flex flex-col sm:flex-row gap-4 items-center lg:items-start">
-                            <a href="https://wa.me/593960067820?text=¡Hola! Me interesa solicitar una cotización para servicios de limpieza especializada"
+                            <a href="https://wa.me/593960067820?text=¡Hola! Me interesa solicitar una cotización para servicios de limpieza especializada" target="_blank"
                                 className="inline-flex items-center px-8 py-4 bg-[var(--primary-color)] text-[var(--primary-button-text-color)] rounded-lg font-semibold text-lg hover:bg-[var(--primary-button-hover-bg-color)] transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl">
                                 <i className="fab fa-whatsapp text-2xl mr-3" aria-hidden="true"></i>
                                 ¡Cotiza Ahora por WhatsApp!
@@ -144,12 +144,6 @@ export const SectionPrimary = () => {
                     </div>
                 </div>
             </div>
-
-            {/* <!-- WhatsApp floating button --> */}
-            <a href="https://wa.me/593960067820?text=¡Hola! Me interesa solicitar una cotización para servicios de limpieza especializada"
-                class="fixed bottom-6 right-6 z-50 bg-green-500 text-white p-4 rounded-full shadow-2xl hover:bg-green-600 transition-all duration-300 hover:scale-110 animate-pulse">
-                <i class="fab fa-whatsapp text-2xl" aria-hidden="true"></i>
-            </a>
 
             {/* <!-- Bottom wave --> */}
             <div class="absolute bottom-0 left-0 w-full overflow-hidden">

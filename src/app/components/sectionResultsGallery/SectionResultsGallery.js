@@ -17,7 +17,7 @@ export const SectionResultsGallery = () => {
                     <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-[var(--dark-text-color)] mb-6">
                         Galería de
                         <span
-                            class="bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent2-color)] bg-clip-text text-transparent">Resultados</span>
+                            class="bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent2-color)] bg-clip-text text-transparent"> Resultados</span>
                     </h2>
                     <p class="text-xl text-[var(--gray-text-color)] max-w-3xl mx-auto">
                         Cada imagen cuenta una historia de transformación. Mira cómo devolvemos
@@ -319,7 +319,7 @@ export const SectionResultsGallery = () => {
                         Únete a los cientos de clientes satisfechos que han experimentado la
                         diferencia Limpio
                     </p>
-                    <a href="https://wa.me/593960067820?text=Quiero ver cómo pueden transformar mis muebles/colchones/alfombras/auto"
+                    <a href="https://wa.me/593960067820?text=Quiero ver cómo pueden transformar mis muebles/colchones/alfombras/auto" target="_blank"
                         class="inline-flex items-center px-8 py-4 bg-white text-[var(--primary-color)] rounded-lg font-semibold text-lg hover:bg-gray-100 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl">
                         <i class="fab fa-whatsapp text-xl mr-3" aria-hidden="true"></i>
                         ¡Solicita tu Cotización Ahora!

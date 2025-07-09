@@ -27,6 +27,9 @@ const quicksand = Quicksand({
 export const metadata = {
   title: "CleanPro EC",
   description: "Especialistas en limpieza y desinfección a domicilio de colchones, muebles, alfombras e interiores de vehículos en Guayas, Ecuador.",
+  icons: {
+    icon: '/logo.ico',
+  },
 };
 
 export default function RootLayout({ children }) {

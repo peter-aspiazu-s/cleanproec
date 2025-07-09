@@ -17,7 +17,7 @@ export const SectionSpecializedServices = () => {
                     <h2 class="text-3xl sm:text-4xl lg:text-5xl font-bold text-[var(--dark-text-color)] mb-6">
                         Nuestros
                         <span
-                            class="bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent2-color)] bg-clip-text text-transparent">Servicios
+                            class="bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent2-color)] bg-clip-text text-transparent"> Servicios
                             Especializados</span>
                     </h2>
                     <p class="text-xl text-[var(--gray-text-color)] max-w-3xl mx-auto">
@@ -217,7 +217,7 @@ export const SectionSpecializedServices = () => {
                         ¿No estás seguro de cuál servicio necesitas? ¡Contáctanos y te
                         asesoramos sin compromiso!
                     </p>
-                    <a href="https://wa.me/593960067820?text=Necesito asesoría sobre qué servicio de limpieza necesito"
+                    <a href="https://wa.me/593960067820?text=Necesito asesoría sobre qué servicio de limpieza necesito" target="_blank"
                         class="inline-flex items-center px-8 py-4 bg-[var(--primary-color)] text-[var(--primary-button-text-color)] rounded-lg font-semibold text-lg hover:bg-[var(--primary-button-hover-bg-color)] transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl">
                         <i class="fab fa-whatsapp text-xl mr-3" aria-hidden="true"></i>
                         Consulta Gratuita por WhatsApp
