@@ -77,13 +77,13 @@ export const SectionPrimary = () => {
 
                         {/* <!-- CTA Buttons --> */}
                         <div className="flex flex-col sm:flex-row gap-4 items-center lg:items-start">
-                            <a href="https://wa.me/593960067820?text=¡Hola! Me interesa solicitar una cotización para servicios de limpieza especializada" target="_blank"
+                            <a href="https://wa.me/593989411325?text=¡Hola! Me interesa solicitar una cotización para servicios de limpieza especializada" target="_blank"
                                 className="inline-flex items-center px-8 py-4 bg-[var(--primary-color)] text-[var(--primary-button-text-color)] rounded-lg font-semibold text-lg hover:bg-[var(--primary-button-hover-bg-color)] transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl">
                                 <i className="fab fa-whatsapp text-2xl mr-3" aria-hidden="true"></i>
                                 ¡Cotiza Ahora por WhatsApp!
                             </a>
 
-                            <a href="tel:+593960067820"
+                            <a href="tel:+593989411325"
                                 className="inline-flex items-center px-8 py-4 bg-[var(--secondary-button-bg-color)] text-[var(--secondary-button-text-color)] rounded-lg font-semibold text-lg hover:bg-[var(--secondary-button-hover-bg-color)] transition-all duration-300 hover:scale-105 shadow-md hover:shadow-lg">
                                 <i className="fas fa-phone text-xl mr-3" aria-hidden="true"></i>
                                 Llamar Ahora
@@ -94,7 +94,7 @@ export const SectionPrimary = () => {
                         <div class="flex items-center justify-center lg:justify-start space-x-6 pt-4">
                             <div class="flex items-center space-x-2 text-[var(--gray-text-color)]">
                                 <i class="fas fa-phone text-[var(--primary-color)]" aria-hidden="true"></i>
-                                <span class="font-medium">096 006 7820</span>
+                                <span class="font-medium">098 941 1325</span>
                             </div>
                             <div class="flex items-center space-x-2 text-[var(--gray-text-color)]">
                                 <i class="fas fa-map-marker-alt text-[var(--primary-color)]" aria-hidden="true"></i>

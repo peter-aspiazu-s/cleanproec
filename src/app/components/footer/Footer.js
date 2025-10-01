@@ -59,9 +59,9 @@ export const Footer = () => {
                                 <i class="fas fa-phone text-white" aria-hidden="true"></i>
                             </div>
                             <div>
-                                <a href="tel:+593960067820"
+                                <a href="tel:+593989411325"
                                     class="text-white hover:text-[var(--primary-color)] transition-colors duration-300 font-medium">
-                                    096 006 7820
+                                    098 941 1325
                                 </a>
                             </div>
                         </div>
@@ -71,9 +71,9 @@ export const Footer = () => {
                                 <i class="fab fa-whatsapp text-white" aria-hidden="true"></i>
                             </div>
                             <div>
-                                <a href="https://wa.me/593960067820" target="_blank"
+                                <a href="https://wa.me/593989411325" target="_blank"
                                     class="text-white hover:text-green-400 transition-colors duration-300 font-medium">
-                                    WhatsApp: 096 006 7820
+                                    WhatsApp: 098 941 1325
                                 </a>
                             </div>
                         </div>
@@ -142,7 +142,7 @@ export const Footer = () => {
                     <h3 class="text-xl font-bold text-white mb-6">Nuestros Servicios</h3>
                     <ul class="space-y-3">
                         <li>
-                            <a href="https://wa.me/593960067820?text=Me interesa el servicio de limpieza de colchones"
+                            <a href="https://wa.me/593989411325?text=Me interesa el servicio de limpieza de colchones"
                                 class="text-gray-300 hover:text-[var(--primary-color)] transition-colors duration-300 flex items-center group">
                                 <i class="fas fa-bed text-xs mr-2 text-[var(--primary-color)]"
                                     aria-hidden="true"></i>
@@ -150,7 +150,7 @@ export const Footer = () => {
                             </a>
                         </li>
                         <li>
-                            <a href="https://wa.me/593960067820?text=Me interesa el servicio de limpieza de muebles"
+                            <a href="https://wa.me/593989411325?text=Me interesa el servicio de limpieza de muebles"
                                 class="text-gray-300 hover:text-[var(--primary-color)] transition-colors duration-300 flex items-center group">
                                 <i class="fas fa-couch text-xs mr-2 text-[var(--accent-color)]"
                                     aria-hidden="true"></i>
@@ -158,7 +158,7 @@ export const Footer = () => {
                             </a>
                         </li>
                         <li>
-                            <a href="https://wa.me/593960067820?text=Me interesa el servicio de limpieza de alfombras"
+                            <a href="https://wa.me/593989411325?text=Me interesa el servicio de limpieza de alfombras"
                                 class="text-gray-300 hover:text-[var(--primary-color)] transition-colors duration-300 flex items-center group">
                                 <i class="fa-solid fa-rug text-xs mr-2 text-[var(--accent3-color)]"
                                     aria-hidden="true"></i>
@@ -166,7 +166,7 @@ export const Footer = () => {
                             </a>
                         </li>
                         <li>
-                            <a href="https://wa.me/593960067820?text=Me interesa el servicio de limpieza de interiores de vehículos"
+                            <a href="https://wa.me/593989411325?text=Me interesa el servicio de limpieza de interiores de vehículos"
                                 class="text-gray-300 hover:text-[var(--primary-color)] transition-colors duration-300 flex  items-center group">
                                 <i class="fas fa-car text-xs mr-2 text-[var(--accent2-color)]"
                                     aria-hidden="true"></i>
@@ -177,7 +177,7 @@ export const Footer = () => {
 
                     {/* <!-- CTA Button --> */}
                     <div class="mt-6">
-                        <a href="https://wa.me/593960067820?text=Quiero solicitar una cotización gratuita" target="_blank"
+                        <a href="https://wa.me/593989411325?text=Quiero solicitar una cotización gratuita" target="_blank"
                             class="inline-flex items-center px-6 py-3 bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent2-color)] text-white rounded-lg font-semibold hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl">
                             <i class="fab fa-whatsapp mr-2" aria-hidden="true"></i>
                             Cotizar Ahora
@@ -208,7 +208,7 @@ export const Footer = () => {
                                 <i class="fab fa-tiktok text-white group-hover:scale-110 transition-transform duration-300"
                                     aria-hidden="true"></i>
                             </a>
-                            <a href="https://wa.me/593960067820" target="_blank"
+                            <a href="https://wa.me/593989411325" target="_blank"
                                 class="w-10 h-10 bg-green-600 rounded-full flex items-center justify-center hover:bg-green-700 transition-colors duration-300 group">
                                 <i class="fab fa-whatsapp text-white group-hover:scale-110 transition-transform duration-300"
                                     aria-hidden="true"></i>
@@ -250,7 +250,7 @@ export const Footer = () => {
 
         {/* <!-- Floating WhatsApp Button (Alternative) --> */}
         <div class="fixed bottom-6 right-6 z-50">
-            <a href="https://wa.me/593960067820?text=¡Hola! Necesito información sobre sus servicios de limpieza" target="_blank"
+            <a href="https://wa.me/593989411325?text=¡Hola! Necesito información sobre sus servicios de limpieza" target="_blank"
                 class="w-14 h-14 bg-green-500 rounded-full flex items-center justify-center text-white shadow-2xl hover:bg-green-600 transition-all duration-300 hover:scale-110 animate-pulse">
                 <i class="fab fa-whatsapp text-xl" aria-hidden="true"></i>
             </a>

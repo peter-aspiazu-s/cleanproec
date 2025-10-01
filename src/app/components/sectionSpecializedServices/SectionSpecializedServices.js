@@ -68,7 +68,7 @@ export const SectionSpecializedServices = () => {
                             </li>
                         </ul>
 
-                        <a href="https://wa.me/593960067820?text=Me interesa el servicio de limpieza de colchones"
+                        <a href="https://wa.me/593989411325?text=Me interesa el servicio de limpieza de colchones"
                             class="inline-flex items-center text-[var(--primary-color)] font-semibold hover:text-[var(--primary-button-hover-bg-color)] transition-colors duration-300">
                             Solicitar servicio
                             <i class="fas fa-arrow-right ml-2 group-hover:translate-x-1 transition-transform duration-300"
@@ -113,7 +113,7 @@ export const SectionSpecializedServices = () => {
                             </li>
                         </ul>
 
-                        <a href="https://wa.me/593960067820?text=Me interesa el servicio de limpieza de muebles"
+                        <a href="https://wa.me/593989411325?text=Me interesa el servicio de limpieza de muebles"
                             class="inline-flex items-center text-[var(--primary-color)] font-semibold hover:text-[var(--primary-button-hover-bg-color)] transition-colors duration-300">
                             Solicitar servicio
                             <i class="fas fa-arrow-right ml-2 group-hover:translate-x-1 transition-transform duration-300"
@@ -158,7 +158,7 @@ export const SectionSpecializedServices = () => {
                             </li>
                         </ul>
 
-                        <a href="https://wa.me/593960067820?text=Me interesa el servicio de limpieza de alfombras"
+                        <a href="https://wa.me/593989411325?text=Me interesa el servicio de limpieza de alfombras"
                             class="inline-flex items-center text-[var(--primary-color)] font-semibold hover:text-[var(--primary-button-hover-bg-color)] transition-colors duration-300">
                             Solicitar servicio
                             <i class="fas fa-arrow-right ml-2 group-hover:translate-x-1 transition-transform duration-300"
@@ -202,7 +202,7 @@ export const SectionSpecializedServices = () => {
                             </li>
                         </ul>
 
-                        <a href="https://wa.me/593960067820?text=Me interesa el servicio de limpieza de interiores de vehículos"
+                        <a href="https://wa.me/593989411325?text=Me interesa el servicio de limpieza de interiores de vehículos"
                             class="inline-flex items-center text-[var(--primary-color)] font-semibold hover:text-[var(--primary-button-hover-bg-color)] transition-colors duration-300">
                             Solicitar servicio
                             <i class="fas fa-arrow-right ml-2 group-hover:translate-x-1 transition-transform duration-300"
@@ -217,7 +217,7 @@ export const SectionSpecializedServices = () => {
                         ¿No estás seguro de cuál servicio necesitas? ¡Contáctanos y te
                         asesoramos sin compromiso!
                     </p>
-                    <a href="https://wa.me/593960067820?text=Necesito asesoría sobre qué servicio de limpieza necesito" target="_blank"
+                    <a href="https://wa.me/593989411325?text=Necesito asesoría sobre qué servicio de limpieza necesito" target="_blank"
                         class="inline-flex items-center px-8 py-4 bg-[var(--primary-color)] text-[var(--primary-button-text-color)] rounded-lg font-semibold text-lg hover:bg-[var(--primary-button-hover-bg-color)] transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl">
                         <i class="fab fa-whatsapp text-xl mr-3" aria-hidden="true"></i>
                         Consulta Gratuita por WhatsApp

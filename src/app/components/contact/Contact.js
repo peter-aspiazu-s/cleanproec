@@ -51,10 +51,10 @@ export const Contact = () => {
                             WhatsApp
                         </h3>
                         <p class="text-[var(--gray-text-color)] mb-4">Respuesta inmediata</p>
-                        <a href="https://wa.me/593960067820?text=¡Hola! Me interesa solicitar información sobre los servicios de limpieza especializada" target="_blank"
+                        <a href="https://wa.me/593989411325?text=¡Hola! Me interesa solicitar información sobre los servicios de limpieza especializada" target="_blank"
                             class="inline-flex items-center px-6 py-3 bg-green-500 text-white rounded-lg font-semibold hover:bg-green-600 transition-all duration-300 hover:scale-105">
                             <i class="fab fa-whatsapp mr-2" aria-hidden="true"></i>
-                            096 006 7820
+                            098 941 1325
                         </a>
                     </div>
                 </div>
@@ -71,10 +71,10 @@ export const Contact = () => {
                             Teléfono
                         </h3>
                         <p class="text-[var(--gray-text-color)] mb-4">Llamada directa</p>
-                        <a href="tel:+593960067820"
+                        <a href="tel:+593989411325"
                             class="inline-flex items-center px-6 py-3 bg-[var(--primary-color)] text-white rounded-lg font-semibold hover:bg-[var(--primary-button-hover-bg-color)] transition-all duration-300 hover:scale-105">
                             <i class="fas fa-phone mr-2" aria-hidden="true"></i>
-                            096 006 7820
+                            098 941 1325
                         </a>
                     </div>
                 </div>
@@ -156,7 +156,7 @@ export const Contact = () => {
                             </div>
                         </div>
 
-                        <a href="https://wa.me/593960067820?text=Necesito una cotización urgente para servicios de limpieza especializada" target="_blank"
+                        <a href="https://wa.me/593989411325?text=Necesito una cotización urgente para servicios de limpieza especializada" target="_blank"
                             class="inline-flex items-center px-8 py-4 bg-white text-[var(--primary-color)] rounded-lg font-bold text-lg hover:bg-gray-100 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl mt-6">
                             <i class="fab fa-whatsapp text-xl mr-3" aria-hidden="true"></i>
                             Contactar por WhatsApp
@@ -236,13 +236,13 @@ export const Contact = () => {
                     Agenda tu servicio hoy mismo.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4 items-center justify-center">
-                    <a href="https://wa.me/593960067820?text=Quiero agendar mi servicio de limpieza especializada hoy mismo" target="_blank"
+                    <a href="https://wa.me/593989411325?text=Quiero agendar mi servicio de limpieza especializada hoy mismo" target="_blank"
                         class="inline-flex items-center px-8 py-4 bg-gradient-to-r from-[var(--primary-color)] to-[var(--accent2-color)] text-white rounded-lg font-bold text-lg hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-xl">
                         <i class="fab fa-whatsapp text-xl mr-3" aria-hidden="true"></i>
                         Agendar Servicio Ahora
                     </a>
 
-                    <a href="tel:+593960067820"
+                    <a href="tel:+593989411325"
                         class="inline-flex items-center px-8 py-4 bg-[var(--secondary-button-bg-color)] text-[var(--secondary-button-text-color)] rounded-lg font-bold text-lg hover:bg-[var(--secondary-button-hover-bg-color)] transition-all duration-300 hover:scale-105 shadow-md hover:shadow-lg">
                         <i class="fas fa-phone text-xl mr-3" aria-hidden="true"></i>
                         Llamar Ahora

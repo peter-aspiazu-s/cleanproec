@@ -319,7 +319,7 @@ export const SectionResultsGallery = () => {
                         Únete a los cientos de clientes satisfechos que han experimentado la
                         diferencia Limpio
                     </p>
-                    <a href="https://wa.me/593960067820?text=Quiero ver cómo pueden transformar mis muebles/colchones/alfombras/auto" target="_blank"
+                    <a href="https://wa.me/593989411325?text=Quiero ver cómo pueden transformar mis muebles/colchones/alfombras/auto" target="_blank"
                         class="inline-flex items-center px-8 py-4 bg-white text-[var(--primary-color)] rounded-lg font-semibold text-lg hover:bg-gray-100 transition-all duration-300 hover:scale-105 shadow-lg hover:shadow-xl">
                         <i class="fab fa-whatsapp text-xl mr-3" aria-hidden="true"></i>
                         ¡Solicita tu Cotización Ahora!
